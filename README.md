@@ -112,7 +112,7 @@ The pipeline performs the following steps:
 
 Execute directly via:
 
-[https://doi.org/10.25663/brainlife.app.887](https://doi.org/10.25663/brainlife.app.887)
+[https://doi.org/10.25663/brainlife.app.926](https://doi.org/10.25663/brainlife.app.926)
 
 All dependencies are handled automatically by the platform.
 
